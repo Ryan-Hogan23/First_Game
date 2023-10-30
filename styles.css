@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+h1, h3 {
+    text-align: center;
+    color: yellow;
+}
+div {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+input {
+    padding: 10px;
+    background-color: yellow;
+    color: blue;
+    font-size: large;
+    margin: 12px;
+}
